@@ -70,6 +70,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0John-Hong0&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=0John-Hong0&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=0John-Hong0&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j&order=3" height="150" alt="streak graph"  />
 </div>

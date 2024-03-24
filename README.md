@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Databases**
 
-- 👨‍💻 All of my projects are available at [0john-hong0.com](https://www.0john-hong0.com/)
+- 👨‍💻 All of my projects are available at [www.0john-hong0.com](https://www.0john-hong0.com/)
 
 
 <h3 align="left">Languages and Tools:</h3>

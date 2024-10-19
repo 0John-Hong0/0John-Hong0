@@ -14,9 +14,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
+  <img src="https://skillicons.dev/icons?i=debian" height="40" alt="debian logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
   <img width="12" />
@@ -29,6 +31,8 @@
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
@@ -56,13 +60,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="opencv logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />

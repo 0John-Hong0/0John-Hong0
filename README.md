@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0john-hong0&label=Profile%20views&color=0e75b6&style=flat" alt="0john-hong0" /> </p>
 
-- 🌱 I’m currently learning **Databases**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [www.0john-hong0.com](https://www.0john-hong0.com/)
 

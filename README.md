@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.0john-hong0.com](https://www.0john-hong0.com/)
 
-- 🏠 [Home Lab Docs](https://homelab-docs.0john-hong0.com/)
+- 🏠 I document my home lab setup and projects at [Home Lab Docs](https://homelab-docs.0john-hong0.com/).
 
 
 <h3 align="left">Languages and Tools:</h3>
